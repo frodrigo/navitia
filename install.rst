@@ -106,7 +106,7 @@ Testing
 
    Import them using the gtfs2ed tool
 
-#. Get some Open Street Map data. For instance from http://metro.teczno.com/
+#. Get some Open Street Map data. For instance from https://mapzen.com/data/metro-extracts get an .osm.pbf file
 
    Import them using the osm2ed tool
 
